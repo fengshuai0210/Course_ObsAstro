@@ -8,6 +8,6 @@
 
 .. toctree:: 
    :maxdepth: 2
-   :caption: 多波段观测:
+   :caption: 多波段观测
 
    uv_astro.rst
