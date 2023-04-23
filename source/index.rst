@@ -6,15 +6,11 @@
 Welcome to 实测天体物理's documentation!
 ========================================
 
-.. toctree::
+.. toctree:: 
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 多波段观测:
 
 
 
 Indices and tables
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
