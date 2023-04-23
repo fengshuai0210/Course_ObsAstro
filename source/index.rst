@@ -3,14 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 实测天体物理's documentation!
-========================================
+实测天体物理
+===========
 
 .. toctree:: 
    :maxdepth: 2
    :caption: 多波段观测:
 
-
-
-Indices and tables
-==================
+   uv_astro.rst
