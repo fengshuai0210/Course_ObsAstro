@@ -14,7 +14,7 @@
 
 多信使观测
 --------
-主要内容包括:doc:`紫外天文观测 <uv_astro>`
+主要内容包括 :doc:`紫外天文观测 <uv_astro>`
 
 .. toctree:: 
    :maxdepth: 2
