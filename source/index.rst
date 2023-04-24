@@ -9,5 +9,9 @@
 .. toctree:: 
    :maxdepth: 2
    :caption: 多波段观测
+   :hidden:
 
    uv_astro.rst
+   ir_astro.rst
+   hea_astro.rst
+   radio_astro.rst
