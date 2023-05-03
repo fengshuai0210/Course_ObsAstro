@@ -11,4 +11,7 @@
    :caption: 多波段观测
    :hidden:
 
-   uv_astro.rst
+   uv_astro
+   ir_astro
+   hea_astro
+   radio_astro
