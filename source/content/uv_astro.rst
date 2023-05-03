@@ -33,6 +33,11 @@
 紫外观测设备
 ------------
 
+IUE (International Ultraviolet Explorer)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* https://archive.stsci.edu/missions-and-data/iue
+
 GALEX (Galaxy Evolution Explorer)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Website: https://archive.stsci.edu/missions-and-data/galex
+* https://archive.stsci.edu/missions-and-data/galex

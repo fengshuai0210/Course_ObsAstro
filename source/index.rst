@@ -3,14 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-实测天体物理：多波段观测部分
-========================================
+实测天体物理
+===========
 
 .. toctree::
    :maxdepth: 1
    :caption: 多波段观测
+   :hidden:
 
-   content/uv_astro
-   content/ir_astro
-   content/hea_astro
-   content/radio_astro
+   uv_astro.rst
