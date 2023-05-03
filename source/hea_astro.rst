@@ -52,3 +52,4 @@ Fermi Gamma-ray Space Telescope
 
 参考文献
 ---------
+* **Exploring the X-ray Universe**, *Frederick D. Seward & Philip A. Charles*, Cambridge University Press, 2010
