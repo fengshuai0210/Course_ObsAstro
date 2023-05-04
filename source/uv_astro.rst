@@ -30,14 +30,25 @@
     * H原子谱线(Lyman-α emitter，Lyman森林)
     * 高电离金属原子谱线(O VI, C IV, N V)，可以用来示踪宇宙中的热气体(105-6K)
 
-紫外观测设备
-------------
+紫外天文观测设备
+-----------------
+
+Copernicus (Orbiting Astronomical Observatory-3, OAO-3)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* https://archive.stsci.edu/copernicus/
 
 IUE (International Ultraviolet Explorer)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * https://archive.stsci.edu/missions-and-data/iue
+
+Swift (Neil Gehrels Swift Observatory)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* https://swift.gsfc.nasa.gov/
 
 GALEX (Galaxy Evolution Explorer)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * https://archive.stsci.edu/missions-and-data/galex
+
+HST (Hubble Space Telescope)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* https://hubblesite.org/
