@@ -30,6 +30,11 @@
     * H原子谱线(Lyman-α emitter，Lyman森林)
     * 高电离金属原子谱线(O VI, C IV, N V)，可以用来示踪宇宙中的热气体(105-6K)
 
+.. image:: https://www.galex.caltech.edu/media/images/glx2004-01r_img05.jpg
+   :width: 700 px
+   :align: center
+
+
 紫外天文观测设备
 -----------------
 
@@ -40,6 +45,10 @@ Copernicus (Orbiting Astronomical Observatory-3, OAO-3)
 IUE (International Ultraviolet Explorer)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * https://archive.stsci.edu/missions-and-data/iue
+
+FUSE (Far Ultraviolet Spectroscopic Explorer)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* https://archive.stsci.edu/fuse/
 
 Swift (Neil Gehrels Swift Observatory)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
