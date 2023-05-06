@@ -28,6 +28,10 @@ XMM-Newton
 ~~~~~~~~~~~~
 * https://sci.esa.int/web/xmm-newton/
 
+Swift (Neil Gehrels Swift Observatory)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* https://swift.gsfc.nasa.gov/
+
 NuSTAR (Nuclear Spectroscopic Telescope Array)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * https://www.nustar.caltech.edu/

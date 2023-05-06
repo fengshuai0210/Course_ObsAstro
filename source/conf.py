@@ -2,7 +2,7 @@
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
-# http://www.sphinx-doc.org/en/master/config
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
 
@@ -22,7 +22,7 @@ copyright = '2023, 冯帅'
 author = '冯帅'
 
 # The full version, including alpha/beta/rc tags
-release = '2023-04'
+release = '23.05'
 
 
 # -- General configuration ---------------------------------------------------

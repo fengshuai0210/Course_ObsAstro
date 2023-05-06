@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 实测天体物理
-==============
+===========
 
 .. toctree::
    :maxdepth: 1
